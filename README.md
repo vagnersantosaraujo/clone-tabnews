@@ -21,9 +21,10 @@ Até o momento, os seguintes marcos foram alcançados:
 
 - [x] **Setup Inicial**: Inicialização do projeto com `package.json`.
 - [x] **Configuração de Ambiente**: Definição da versão do Node.js via `.nvmrc`.
-- [x] **Gerenciamento de Dependências**: Instalação do Next.js e React.
+- [x] **Gerenciamento de Dependências**: Instalação do Next.js, React e React-DOM.
 - [x] **Controle de Versão**: Repositório Git configurado com dependências rastreadas (vendor).
 - [x] **Ajustes Técnicos**: Correção de warnings de `string ref` no desenvolvimento do React DOM.
+- [x] **Primeira Página**: Criação do diretório `pages/` e do arquivo `index.js`.
 
 ---
 
